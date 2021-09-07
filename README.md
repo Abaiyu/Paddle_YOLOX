@@ -1,1 +1,1 @@
-# Paddle_YOLOX
+YOLOX
